@@ -1,0 +1,1 @@
+docker build . -t mikes-demo:firstversion
